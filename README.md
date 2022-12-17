@@ -62,8 +62,9 @@ Provide the elements of the API:
 
 VERSION:
 
-ID: 1.0.4
-This version add the requested folders in the repository.
+ID: v1.0.4
+This version add the requested folders in the repository as presented
+in the UDACITY Jupyter Notebook.
 
 
 PUBLIC RELEASE  
